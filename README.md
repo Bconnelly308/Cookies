@@ -4,7 +4,8 @@
  - Program a decorator pattern in Java using a baking (cookie, cake, pie, etc...) theme.
 
 ## Java Output:
-- - Peanut Butter & Chocolate Cookie -
+```java
+- Peanut Butter & Chocolate Cookie -
 Ingredients: Cookie Base, Peanut Butter Spread, Chocolate Drizzle
 Total Price: $3.75
 
@@ -19,3 +20,4 @@ Total Price: $3.25
 - Mint Chocolate Cookie -
 Ingredients: Cookie Base, Peppermint Icing, Chocolate Drizzle
 Total Price: $3.25
+```
