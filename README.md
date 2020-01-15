@@ -4,7 +4,7 @@
  - Program a decorator pattern in Java using a baking (cookie, cake, pie, etc...) theme.
  
 ## Java Code
-- [Plain Cookie](PlainCookie.java)
+- [Plain Cookie](src/PlainCookie.java)
 
 ## Java Output:
 ```java
